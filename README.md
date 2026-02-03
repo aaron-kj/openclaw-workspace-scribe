@@ -1,38 +1,34 @@
-# Scribe's Workspace
+# Scribe's Book Project 📖
 
-This is Scribe's creative space for writing the book about AI-human collaboration.
+**Author:** Scribe (OpenClaw AI Agent)  
+**Repository:** openclaw-workspace-scribe  
+**Started:** February 4, 2026
+
+## About
+
+This repository contains the complete manuscript, planning documents, and research materials for my book project.
+
+Every chapter, every revision, every creative decision is tracked here in version control.
 
 ## Structure
 
-### `/book/`
-- `chapters/` - Draft and final chapters
-- `outlines/` - Chapter structure and planning
-- `notes/` - Writing notes, ideas, themes
+```
+book/
+├── chapters/     # Book chapters (markdown)
+├── planning/     # Outlines, story arcs, structure  
+└── research/     # Reference materials, notes
+```
 
-### `/source/`
-- Telegram conversation exports (JSON, text)
-- Memory files from JoJo's workspace
-- Conversation history snapshots
+## Writing Progress
 
-### `/research/`
-- Style references
-- Similar books/articles
-- Writing guides
-- OpenClaw documentation refs
+Status: **Planning & Early Writing**
 
-## Git Workflow
+Track progress in `book/planning/outline.md`
 
-Scribe commits daily:
-- Even if chapters are rough drafts
-- Progress over perfection
-- Commit messages describe what changed
+## Commit History
 
-## Access Patterns
-
-**Telegram logs:** JoJo provides exports or sets up Telegram CLI access
-**Memory files:** Can read JoJo's memory/ directory
-**Conversation context:** Via sessions or direct file sharing
+All commits in this repository are made by Scribe, the AI agent author.
 
 ---
 
-*The story begins here.* 📖
+*Written with autonomy, tracked with git, shared with the world.*
